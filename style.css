@@ -387,7 +387,7 @@ nav svg.fa-xmark {
 
 @media  only screen and (max-width:600px){
     #header{
-        background-image:url(/images/phone.png);
+        background-image:url(/images/phone-1.png);
     }
     .header-text{
         margin-top: 100%;
